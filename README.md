@@ -22,4 +22,4 @@ Firstly we defined age groups, sexes, and smoking habits as arrays.And then crea
 -Accuracy Comparison Of Models :
 ![jn3](https://github.com/rbhavitha/Predicting-Diabetes-Likelihood-Using-Machine-Learning-/assets/71348485/4d09d7c9-f793-422d-b6c1-79de7489807f)
 
-*Random Forest and Decision Tree models perform best for this data set.
+*Random Forest and Decision Tree models perform best for this data set with an accuracy of 97.17%
