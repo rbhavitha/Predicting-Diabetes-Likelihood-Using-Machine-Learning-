@@ -7,7 +7,7 @@ age, history of hypertension, heart disease, smoking, BMI, HbAlc level, and bloo
 Highlights :
 Finding The Top 10 Combinations With The Highest Probabilities Of Getting Diabetes : 
 
-![jn1](https://github.com/rbhavitha/Predicting-Diabetes-Likelihood-Using-Machine-Learning-/assets/71348485/9197ddd1-24d6-446d-b4b4-dddeee5af879)
+![jn1](https://github.com/rbhavitha/Predicting-Diabetes-Likelihood-Using-Machine-Learning-/assets/71348485/7c2f7f44-68e0-4d0d-8380-63a652647089)
 
 Here we used a logistic regression classifier to predict the probabilities of getting diabetes for various combinations of demographic and behavioral features.
 *Firstly we defined age groups, sexes, and smoking habits as arrays.
@@ -18,11 +18,13 @@ Here we used a logistic regression classifier to predict the probabilities of ge
 *Sorted the list of combinations and probabilities in descending order.
 
 Then lastly we printed the top 10 combinations with the highest probabilities of getting diabetes, along with their corresponding demographic and behavioral features.
-![jn2](https://github.com/rbhavitha/Predicting-Diabetes-Likelihood-Using-Machine-Learning-/assets/71348485/1499d6be-f8e7-44b7-bdcc-5b06cd89b8a4)
+
+![jn2](https://github.com/rbhavitha/Predicting-Diabetes-Likelihood-Using-Machine-Learning-/assets/71348485/6daa8e6e-0211-4c6c-8494-d8d0f83aa3ae)
 
 *From the above, it appears that individuals who are male, smokers, and 80 years of age have a higher likelihood of developing diabetes.
 *Individuals who are make , non-smoker and 60 years of age have less chance of developing diabetes.
 
 Accuracy Comparison Of Models :
-![jn3](https://github.com/rbhavitha/Predicting-Diabetes-Likelihood-Using-Machine-Learning-/assets/71348485/3a77f2aa-35c0-43d8-9b83-4db1a5f4ddd.
+![jn3](https://github.com/rbhavitha/Predicting-Diabetes-Likelihood-Using-Machine-Learning-/assets/71348485/4d09d7c9-f793-422d-b6c1-79de7489807f)
+
 Random Forest and Decision Tree are the best models on this data set.
